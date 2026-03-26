@@ -1,4 +1,4 @@
-## Amazon Price Tracker (Day 47)
+## Price Tracker (Day 47)
 ### About
 This project scrapes a product website to find the current price and if it is below a certain price, it sends an email to the email address with the current price and a link to buy it. 
 
